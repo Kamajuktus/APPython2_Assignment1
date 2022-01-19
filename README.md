@@ -8,7 +8,7 @@ Place this folder anywhere to install.
 
 
 Usage: 
-Open command terminal and cd your path to APPython2_Assignment1/ToDoAssignment.
+Open command terminal and cd your path to /ToDoAssignment.
 Use python manage.py migrate and python manage.py runserver to launch server.
 Open browser and go to 127.0.0.1:8000/accounts/register to register a new user.
 You will be redirected to 127.0.0.1:8000. Here you may add, update, delete tasks.
