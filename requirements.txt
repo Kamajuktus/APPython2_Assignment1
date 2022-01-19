@@ -1,0 +1,1 @@
+Make sure to have PostgreSQL, latest Python and Django version installed.
